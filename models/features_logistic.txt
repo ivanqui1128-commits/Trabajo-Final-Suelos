@@ -1,0 +1,350 @@
+pH
+MO
+fosforo
+azufre
+calcio
+magnesio
+potasio
+CIC
+CE
+anios_est
+depto_Antioquia
+depto_Arauca
+depto_ArchipiãLago De San AndrãS, Providencia Y Santa Catalina
+depto_AtlãNtico
+depto_Bogotã, D.C.
+depto_BolãVar
+depto_Boyacã
+depto_Caldas
+depto_Caquetã
+depto_Casanare
+depto_Cauca
+depto_Cesar
+depto_Chocã
+depto_Cundinamarca
+depto_CãRdoba
+depto_GuainãA
+depto_Guaviare
+depto_Huila
+depto_La Guajira
+depto_Magdalena
+depto_Meta
+depto_NariãO
+depto_Norte De Santander
+depto_Putumayo
+depto_QuindãO
+depto_Risaralda
+depto_Santander
+depto_Sucre
+depto_Tolima
+depto_Valle Del Cauca
+depto_VaupãS
+depto_Vichada
+cultivo_Acacia
+cultivo_Acelga
+cultivo_Achiote
+cultivo_Achira
+cultivo_Agraz
+cultivo_Aguacate
+cultivo_Ahuyama
+cultivo_Aji
+cultivo_Ajo
+cultivo_Ajonjoli
+cultivo_Albahaca
+cultivo_Alcachofa
+cultivo_Alfalfa
+cultivo_Algodã³N
+cultivo_Aliso
+cultivo_Anturio
+cultivo_Anã³N
+cultivo_Apio
+cultivo_Apio De Monte
+cultivo_Arazã¡
+cultivo_Arbol Del Pan
+cultivo_Aromã¡Ticas
+cultivo_Arracacha
+cultivo_Arrayã¡N
+cultivo_Arroz
+cultivo_Arveja
+cultivo_Arã¡Ndano
+cultivo_Asai
+cultivo_Aster
+cultivo_Avena
+cultivo_Avena Cayuse
+cultivo_Badea
+cultivo_Balãº
+cultivo_Bananito
+cultivo_Banano
+cultivo_Banco De Proteina Forrajero
+cultivo_Batata
+cultivo_Berenjena
+cultivo_Bijao
+cultivo_Bijas
+cultivo_Borojã³
+cultivo_Boton De Oro
+cultivo_Botã³N De Oro
+cultivo_Brevo
+cultivo_Brillantina
+cultivo_Brã³Coli
+cultivo_Cacao
+cultivo_Cacay
+cultivo_Caducifolios
+cultivo_Cafã©
+cultivo_Calabacã­N
+cultivo_Calabaza
+cultivo_Calas
+cultivo_Calã©Ndula
+cultivo_Camu Camu
+cultivo_Cannabis
+cultivo_Carambolo
+cultivo_Cardamomo
+cultivo_Caucho
+cultivo_Caã±A
+cultivo_Caã±A Azucarera
+cultivo_Caã±A Forrajera
+cultivo_Caã±A Panelera
+cultivo_Caã±Amo
+cultivo_Cebada
+cultivo_Cebolla
+cultivo_Cebolla De Bulbo
+cultivo_Cebolla De Rama
+cultivo_Cebolla Puerro
+cultivo_Cebollã­N
+cultivo_Cedro
+cultivo_Cedro Nogal
+cultivo_Ceiba
+cultivo_Chirimoya
+cultivo_Chisgua
+cultivo_Cholupa
+cultivo_Chontaduro
+cultivo_Chã­A
+cultivo_Cidrã³N
+cultivo_Cilantro
+cultivo_Ciruela
+cultivo_Clavel
+cultivo_Cocculus
+cultivo_Cocona
+cultivo_Coliflor
+cultivo_Copoazu
+cultivo_Crisantemo
+cultivo_Cubios
+cultivo_Curuba
+cultivo_Cã­Tricos
+cultivo_Cãºrcuma
+cultivo_Durazno
+cultivo_Epifitas
+cultivo_Esparrago
+cultivo_Espinaca
+cultivo_Estevia
+cultivo_Estragã³N
+cultivo_Estropajo
+cultivo_Eucalipto
+cultivo_Eucalipto Baby Blue
+cultivo_Feijoa
+cultivo_Fique
+cultivo_Flor De Jamaica
+cultivo_Flores
+cultivo_Follajes
+cultivo_Forestales
+cultivo_Forestales Nativos
+cultivo_Frambuesa
+cultivo_Fresa
+cultivo_Frijol
+cultivo_Frutales Varios
+cultivo_Girasol
+cultivo_Gmelina Arborea
+cultivo_Granada
+cultivo_Granadilla
+cultivo_Guaba
+cultivo_Guadua
+cultivo_Guamo
+cultivo_Guandul
+cultivo_Guanã¡Bana
+cultivo_Guatila
+cultivo_Guayaba
+cultivo_Guisantes
+cultivo_Gulupa
+cultivo_Haba
+cultivo_Habichuela
+cultivo_Helecho
+cultivo_Hierbabuena
+cultivo_Higo
+cultivo_Higuerilla
+cultivo_Hipã©Rico
+cultivo_Hortalizas Varias
+cultivo_Hortensias
+cultivo_Iraca
+cultivo_Jatropha
+cultivo_Jengibre
+cultivo_Kiwi
+cultivo_Laurel
+cultivo_Lechuga
+cultivo_Leucaena
+cultivo_Lima
+cultivo_Limonaria
+cultivo_Limã³N
+cultivo_Lulo
+cultivo_Macadamia
+cultivo_Maderable
+cultivo_Malanga
+cultivo_Mandarina
+cultivo_Mango
+cultivo_Mangostino
+cultivo_Manzana
+cultivo_Manã­
+cultivo_Manã­ Forrajero
+cultivo_Maracuyã¡
+cultivo_Maraã±Ã³N
+cultivo_Matarraton
+cultivo_Maã­Z
+cultivo_Maã­Z Forrajero
+cultivo_Melã³N
+cultivo_Mezcla De Pastos
+cultivo_Millo
+cultivo_Mora
+cultivo_Morera
+cultivo_Moringa
+cultivo_Mortiã±O
+cultivo_Mostaza
+cultivo_Nabo
+cultivo_Naranja
+cultivo_Neem
+cultivo_Nopal
+cultivo_Nã­Spero
+cultivo_Olivo
+cultivo_Orã©Gano
+cultivo_Pachira Quinata
+cultivo_Palma
+cultivo_Palma Amarga
+cultivo_Palma De Aceite
+cultivo_Palma De Coco
+cultivo_Palma Robelina
+cultivo_Palmito
+cultivo_Pancojer
+cultivo_Papa
+cultivo_Papa Criolla
+cultivo_Papa De Aã±O
+cultivo_Papaya
+cultivo_Papayuela
+cultivo_Pasifloras
+cultivo_Pasto
+cultivo_Pasto Angleton
+cultivo_Pasto Azul Orchoro
+cultivo_Pasto Brachiaria
+cultivo_Pasto Brizantha
+cultivo_Pasto Buffel
+cultivo_Pasto Carimagua
+cultivo_Pasto Climacuna
+cultivo_Pasto Colosuana
+cultivo_Pasto Cuba 22
+cultivo_Pasto Cynodon
+cultivo_Pasto Elefante
+cultivo_Pasto Estrella
+cultivo_Pasto Falsa Poa
+cultivo_Pasto Guinea
+cultivo_Pasto Imperial
+cultivo_Pasto Kikuyo
+cultivo_Pasto Kingrass
+cultivo_Pasto Llanero
+cultivo_Pasto Maralfalfa
+cultivo_Pasto Mombaza
+cultivo_Pasto Mulato
+cultivo_Pasto Parã¡
+cultivo_Pasto Paspalum
+cultivo_Pasto Puntero
+cultivo_Pasto Ryegrass
+cultivo_Pasto Toledo
+cultivo_Pastos
+cultivo_Patilla
+cultivo_Paulownia
+cultivo_Pendiente
+cultivo_Pepino
+cultivo_Pera
+cultivo_Pimentã³N
+cultivo_Pimienta
+cultivo_Pino
+cultivo_Pitahaya
+cultivo_Piã±A
+cultivo_Plantas Aromã¡Ticas
+cultivo_Plantas Aromã¡Ticas Y Medicinales
+cultivo_Plantas Medicinales
+cultivo_Plantas Nativas
+cultivo_Plã¡Tano
+cultivo_Pomelo
+cultivo_Pompã³N
+cultivo_Proteas
+cultivo_Quinua
+cultivo_Rambutan
+cultivo_Remolacha
+cultivo_Repollo
+cultivo_Roble
+cultivo_Romero
+cultivo_Rosa
+cultivo_Ruda
+cultivo_Ruscus
+cultivo_Sacha Inchi
+cultivo_Sagu
+cultivo_Saman
+cultivo_Silvopastoril
+cultivo_Snapdragã³N
+cultivo_Solidago
+cultivo_Sorgo
+cultivo_Sorgo Forrajero
+cultivo_Soya
+cultivo_Stevia
+cultivo_Sã¡Bila
+cultivo_Tabaco
+cultivo_Tabaco Negro
+cultivo_Tamarindo
+cultivo_Tangare
+cultivo_Tangelo
+cultivo_Teca
+cultivo_Tomate
+cultivo_Tomate De Arbol
+cultivo_Tomate De ÃRbol
+cultivo_Tomillo
+cultivo_Toronjil
+cultivo_Totumo
+cultivo_Trebol
+cultivo_Trigo
+cultivo_Trã©Bol
+cultivo_Uchuva
+cultivo_Uva
+cultivo_Uva Caimarona
+cultivo_Vainilla
+cultivo_Veranera
+cultivo_Yopo
+cultivo_Yuca
+cultivo_Zamia
+cultivo_Zanahoria
+cultivo_Zapote
+cultivo_ÃAme
+topografia_Ligeramente Ondulado
+topografia_Moderadamente Ondulado
+topografia_Ondulado
+topografia_Ondulado Y Pendiente
+topografia_Pendiente
+topografia_Pendiente Fuerte
+topografia_Pendiente Leve
+topografia_Pendiente Moderada
+topografia_Plano
+topografia_Plano Y Ondulado
+topografia_Plano Y Pendiente
+drenaje_Mal Drenaje
+drenaje_Muy Buen Drenaje
+drenaje_Muy Mal Drenaje
+drenaje_Regular Drenaje
+riego_Aspersiã³N - Goteo
+riego_Aspersiã³N - Manguera
+riego_Caã±On
+riego_Fertirriego
+riego_Goteo
+riego_Goteo - Gravedad
+riego_Gravedad
+riego_Manguera
+riego_No Tiene
+riego_Por Inundaciã³N
+riego_Superficial
+riego_Superficial - Goteo
+riego_Superficial - Inundaciã³N
+riego_Superficial-Aspersiã³N
